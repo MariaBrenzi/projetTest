@@ -7,6 +7,6 @@ Created on Thu Nov 16 10:19:43 2023
 
 import pandas as pd
 import streamlit as st
-df=pd.read_csv('test1')
+df=pd.read_csv('test1.csv')
 st.write("Aperçu des données")
 st.dataframe(df.head())
