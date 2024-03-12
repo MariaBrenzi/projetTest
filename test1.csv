@@ -1,3 +1,3 @@
-,id,name,currency,launched_at,backers_count,blurb,country,deadline,slug,status,usd_pledged,sub_category,main_category,creator_id,blurb_length,goal_usd,city,duration
+id,name,currency,launched_at,backers_count,blurb,country,deadline,slug,status,usd_pledged,sub_category,main_category,creator_id,blurb_length,goal_usd,city,duration
 "1,1639965256,Reflections on the LHC Safety Report,USD,2014-11-21 10:42:26,7,""Need Peer Review, Open Source style"",US,2014-12-15 10:42:26,reflections-on-the-lhc-safety-report-review-and-up,successful,211.0,publishing,Academic,1877377173,35,93.0,San Diego,24.0"
 "2,1582062943,Ultra-Custom Chocolate Bars,USD,2020-10-19 05:26:59,99,""Ultra-customized bean to bar chocolate. Any flavor, color, texture you can dream up, crafted from start to finish for you."",US,2020-11-18 05:26:59,ultra-custom-chocolate-bars-0,successful,4697.0,food,Small Batch,205122366,122,1500.0,Philadelphia,30.0"
